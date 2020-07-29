@@ -8,6 +8,6 @@
 <ul align="left">
   <li>Software Engineer at HSBC, India 🏦.</li>
   <li>Skilled in deep learning 🤖, android, python, kotlin, git.</li>
-  <li>If not computer 💻, I would be a body builder 💪.</li>
+  <li>If not a programmer 💻, I would be a body builder 💪.</li>
 </ul>
 
