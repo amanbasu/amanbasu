@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/aman-agarwal-743548137/">LinkedIn</a>
 </p>
 
-<ul align="center">
+<ul align="left">
   <li>Software Engineer at HSBC, India 🏦.</li>
   <li>Skilled in 🤖 deep learning, android, python, kotlin, git.</li>
   <li>If not computer 💻, I would be a body builder 💪.</li>
