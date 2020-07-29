@@ -1,12 +1,11 @@
-
-<!-- ![](https://github.com/amanbasu/amanbasu/blob/master/hello_there.gif) -->
-<!-- **amanbasu/amanbasu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
+<h3 align="center"> Aman Agarwal 👨‍💻 </h3>
 <p align="center">
-  <h3>Aman Agarwal</h3> <br>
-  <a href="https://www.amanagarwal.io/">Homepage</a> // <a href="https://www.linkedin.com/in/aman-agarwal-743548137/">LinkedIn</a> // <a href="https://amanbasu.github.io/portfolio/">Portfolio</a>
+  <a href="https://amanagarwal.io/">Homepage</a> //
+    <a href="https://amanbasu.github.io/portfolio/">Portfolio</a> //
+  <a href="https://www.linkedin.com/in/aman-agarwal-743548137/">LinkedIn</a>
 </p>
 
 - Software Engineer at HSBC, India 🏦.
-- 
+- Skilled in 🤖 deep learning, android, python, kotlin, git.
+- If not computer 💻, I would be a body builder 💪.
 
