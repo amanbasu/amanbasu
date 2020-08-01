@@ -11,3 +11,7 @@
   <li>If not a programmer 💻, I would be a body builder 💪.</li>
 </ul>
 
+---
+
+[![Aman's github stats](https://github-readme-stats.vercel.app/api?username=amanbasu)](https://github.com/anuraghazra/github-readme-stats)
+
