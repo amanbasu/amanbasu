@@ -18,7 +18,7 @@ Hello there, I am [Aman](https://amanagarwal.io) 👨‍💻
 [linkedin]: https://www.linkedin.com/in/aman-agarwal-743548137/
 [stackoverflow]: https://stackoverflow.com/users/7546606/aman-agarwal
 
-<br/>
+<br/><br/>
 
 <!-- Options: &hide=stars,commits,prs,issues,contribs -->
 ![Aman's github stats](https://github-readme-stats.vercel.app/api?username=amanbasu&hide=prs,contribs)
