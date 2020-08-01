@@ -4,9 +4,9 @@
 - Skilled in deep learning 🤖, android, python, kotlin, git.
 - If not a programmer 💻, I would be a body builder 💪.
 
-### Connect with me:
+### Connect with me
 
-[<img align="left" alt="Website" width="22px" src="https://img.icons8.com/cotton/50/000000/domain.png" />][website]
+[<img align="left" alt="Website" width="22px" src="https://img.icons8.com/dusk/64/000000/domain.png" />][website]
 [<img align="left" alt="Portfolio" width="22px" src="https://img.icons8.com/cotton/64/000000/regular-document.png" />][portfolio]
 [<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluent/24/000000/twitter.png" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" />][linkedin]
