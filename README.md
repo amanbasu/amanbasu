@@ -11,7 +11,6 @@
   <li>If not a programmer 💻, I would be a body builder 💪.</li>
 </ul>
 
----
 
 <!-- Options: &hide=stars,commits,prs,issues,contribs -->
 ![Aman's github stats](https://github-readme-stats.vercel.app/api?username=amanbasu&hide=prs,contribs)
