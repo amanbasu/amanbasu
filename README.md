@@ -1,4 +1,4 @@
-Hello there, I am [Aman](https://amanagarwal.io) 👨‍💻
+## Hello there, I am [Aman](https://amanagarwal.io) 👨‍💻
 
 - Software Engineer at HSBC, India 🏦.
 - Skilled in deep learning 🤖, android, python, kotlin, git.
