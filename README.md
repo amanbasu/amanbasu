@@ -9,7 +9,7 @@ Hello there, I am [Aman](https://amanagarwal.io) 👨‍💻
 [<img align="left" alt="Website" width="22px" src="https://img.icons8.com/cotton/50/000000/domain.png" />][website]
 [<img align="left" alt="Portfolio" width="22px" src="https://img.icons8.com/cotton/64/000000/regular-document.png" />][portfolio]
 [<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluent/24/000000/twitter.png" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src=https://img.icons8.com/cute-clipart/64/000000/linkedin.png" />][linkedin]
+[<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="StackOverflow" width="22px" src="https://img.icons8.com/color/48/000000/stackoverflow.png" />][stackoverflow]
 
 [website]: https://amanagarwal.io
