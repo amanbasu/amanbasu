@@ -1,7 +1,7 @@
 ## Hello there, I am [Aman](https://amanagarwal.io) 👨‍💻
 
 - Software Engineer at HSBC, India 🏦.
-- Skilled in deep learning 🤖, android, python, kotlin, git.
+- Skilled in deep learning 🤖, android, and cloud.
 - If not a programmer 💻, I would be a body builder 💪.
 - Certified AWS ML specialist, solutions architect, and developer ☁️✔️.
 
