@@ -1,5 +1,7 @@
 ## Hello there, I am [Aman](https://amanagarwal.io) 👨‍💻
 
+<!-- <a href="https://github.com/amanbasu?tab=repositories" target="_blank"><img src="https://img.shields.io/github/stars/amanbasu"/></a>  -->
+
 - Software Engineer at HSBC, India 🏦.
 - Skilled in deep learning 🤖, android, and cloud.
 - If not a programmer 💻, I would be a body builder 💪.
@@ -7,11 +9,10 @@
 
 ### Connect with me
 
-<a href="https://github.com/amanbasu?tab=repositories" target="_blank"><img src="https://img.shields.io/github/stars/amanbasu"/></a> 
 <a href="https://twitter.com/TheAbecedarian_"><img src="https://img.shields.io/twitter/follow/TheAbecedarian_"/></a> 
 <a href="https://www.linkedin.com/in/aman-agarwal-743548137"><img src="https://img.shields.io/badge/LinkedIn-connect-0e76a8?logo=linkedin"/></a> 
-<a href="http://amanagarwal.io/"><img src="https://img.shields.io/badge/website-amanagarwal.io-blue"/></a> 
-<a href="https://stackoverflow.com/users/7546606/aman-agarwal"><img src="https://img.shields.io/badge/follow-stack overflow-ef8236?logo=stack-overflow"/></a>
+<a href="http://amanagarwal.io/"><img src="https://img.shields.io/badge/Website-amanagarwal.io-blue"/></a> 
+<a href="https://stackoverflow.com/users/7546606/aman-agarwal"><img src="https://img.shields.io/badge/Stack Overflow-follow-ef8236?logo=stack-overflow"/></a>
 
 <!-- [<img align="left" alt="Website" width="22px" src="https://img.icons8.com/dusk/64/000000/domain.png" />][website]
 [<img align="left" alt="Portfolio" width="22px" src="https://img.icons8.com/cotton/64/000000/regular-document.png" />][portfolio]
