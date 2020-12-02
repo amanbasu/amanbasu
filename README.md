@@ -7,17 +7,18 @@
 
 ### Connect with me
 
-[<img align="left" alt="Website" width="22px" src="https://img.icons8.com/dusk/64/000000/domain.png" />][website]
+<img src="https://img.shields.io/github/stars/amanbasu?style=social"/> <img src="https://img.shields.io/twitter/follow/TheAbecedarian_?style=social"/> <img src="https://img.shields.io/badge/website-amanagarwal.io-blue?link=http://amanagarwal.io"/> <img src="https://img.shields.io/badge/connect-linkedin-0e76a8?link=https://www.linkedin.com/in/aman-agarwal-743548137&logo=linkedin"/> <img src="https://img.shields.io/badge/follow-stack overflow-ef8236?link=https://stackoverflow.com/users/7546606/aman-agarwal&logo=stack-overflow"/>
+
+<!-- [<img align="left" alt="Website" width="22px" src="https://img.icons8.com/dusk/64/000000/domain.png" />][website]
 [<img align="left" alt="Portfolio" width="22px" src="https://img.icons8.com/cotton/64/000000/regular-document.png" />][portfolio]
 [<img align="left" alt="Twitter" width="22px" src="https://img.icons8.com/fluent/24/000000/twitter.png" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="StackOverflow" width="22px" src="https://img.icons8.com/color/48/000000/stackoverflow.png" />][stackoverflow]
-
 [website]: https://amanagarwal.io
 [portfolio]: https://amanagarwal.io/portfolio/
 [twitter]: https://twitter.com/TheAbecedarian_
 [linkedin]: https://www.linkedin.com/in/aman-agarwal-743548137/
-[stackoverflow]: https://stackoverflow.com/users/7546606/aman-agarwal
+[stackoverflow]: https://stackoverflow.com/users/7546606/aman-agarwal -->
 
 <br/><br/>
 
