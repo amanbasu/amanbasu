@@ -7,7 +7,7 @@
 
 ### Connect with me
 
-<img src="https://img.shields.io/github/stars/amanbasu?style=social"/> <img src="https://img.shields.io/twitter/follow/TheAbecedarian_?style=social"/> <img src="https://img.shields.io/badge/website-amanagarwal.io-blue?link=http://amanagarwal.io"/> <img src="https://img.shields.io/badge/connect-linkedin-0e76a8?link=https://www.linkedin.com/in/aman-agarwal-743548137&logo=linkedin"/> <img src="https://img.shields.io/badge/follow-stack overflow-ef8236?link=https://stackoverflow.com/users/7546606/aman-agarwal&logo=stack-overflow"/>
+<img src="https://img.shields.io/github/stars/amanbasu?style=social"/> <img src="https://img.shields.io/twitter/follow/TheAbecedarian_?style=social"/> <a href="http://amanagarwal.io/"><img src="https://img.shields.io/badge/website-amanagarwal.io-blue"/></a> <a href="https://www.linkedin.com/in/aman-agarwal-743548137"><img src="https://img.shields.io/badge/connect-linkedin-0e76a8?logo=linkedin"/></a> <a href="https://stackoverflow.com/users/7546606/aman-agarwal"><img src="https://img.shields.io/badge/follow-stack overflow-ef8236?logo=stack-overflow"/></a>
 
 <!-- [<img align="left" alt="Website" width="22px" src="https://img.icons8.com/dusk/64/000000/domain.png" />][website]
 [<img align="left" alt="Portfolio" width="22px" src="https://img.icons8.com/cotton/64/000000/regular-document.png" />][portfolio]
@@ -20,7 +20,7 @@
 [linkedin]: https://www.linkedin.com/in/aman-agarwal-743548137/
 [stackoverflow]: https://stackoverflow.com/users/7546606/aman-agarwal -->
 
-<br/><br/>
+<br/>
 
 <!-- Options: &hide=stars,commits,prs,issues,contribs -->
 ![Aman's github stats](https://github-readme-stats.vercel.app/api?username=amanbasu&hide=prs,contribs)
