@@ -7,7 +7,11 @@
 
 ### Connect with me
 
-<a href="https://github.com/amanbasu?tab=repositories" target="_blank"><img src="https://img.shields.io/github/stars/amanbasu?style=social"/></a> <a href="https://twitter.com/TheAbecedarian_"><img src="https://img.shields.io/twitter/follow/TheAbecedarian_?style=social"/></a> <a href="https://www.linkedin.com/in/aman-agarwal-743548137"><img src="https://img.shields.io/badge/LinkedIn-connect-0e76a8?logo=linkedin&style=social"/></a> <a href="http://amanagarwal.io/"><img src="https://img.shields.io/badge/website-amanagarwal.io-blue?style=social"/></a> <a href="https://stackoverflow.com/users/7546606/aman-agarwal"><img src="https://img.shields.io/badge/follow-stack overflow-ef8236?logo=stack-overflow&style=social"/></a>
+<a href="https://github.com/amanbasu?tab=repositories" target="_blank"><img src="https://img.shields.io/github/stars/amanbasu?style=social"/></a> 
+<a href="https://twitter.com/TheAbecedarian_"><img src="https://img.shields.io/twitter/follow/TheAbecedarian_?style=social"/></a> 
+<a href="https://www.linkedin.com/in/aman-agarwal-743548137"><img src="https://img.shields.io/badge/LinkedIn-connect-0e76a8?logo=linkedin&style=social"/></a> 
+<a href="http://amanagarwal.io/"><img src="https://img.shields.io/badge/website-amanagarwal.io-blue?style=social"/></a> 
+<a href="https://stackoverflow.com/users/7546606/aman-agarwal"><img src="https://img.shields.io/badge/follow-stack overflow-ef8236?logo=stack-overflow&style=social"/></a>
 
 <!-- [<img align="left" alt="Website" width="22px" src="https://img.icons8.com/dusk/64/000000/domain.png" />][website]
 [<img align="left" alt="Portfolio" width="22px" src="https://img.icons8.com/cotton/64/000000/regular-document.png" />][portfolio]
