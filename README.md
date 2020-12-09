@@ -1,4 +1,4 @@
-## Hello there, I am [Aman](https://amanagarwal.io) 👨‍💻
+## I am [Aman Agarwal](https://amanagarwal.io) 👨‍💻 
 
 ![](https://github.com/amanbasu/amanbasu/blob/master/hello_there.gif)
 
