@@ -1,5 +1,7 @@
 ## Hello there, I am [Aman](https://amanagarwal.io) 👨‍💻
 
+![](https://github.com/amanbasu/amanbasu/blob/master/hello_there.gif)
+
 - Software Engineer at HSBC, India 🏦.
 - Skilled in deep learning 🤖, android, and cloud.
 - If not a programmer 💻, I would be a body builder 💪.
