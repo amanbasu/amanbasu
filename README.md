@@ -6,7 +6,7 @@
 - Skilled in deep learning 🤖, android, and cloud.
 - If not a programmer 💻, I would be a body builder 💪.
 - Certified AWS ML specialist, solutions architect, and developer ☁️✔️.
-- Certified TensorFlow developer <img src="https://developers.google.com/certification/directory/images/badges/tensorflow_developer.png" width="20px">.
+- Certified TensorFlow developer.
 
 ### Connect with me
 
