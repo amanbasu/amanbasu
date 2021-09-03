@@ -2,7 +2,7 @@
 
 ![](https://github.com/amanbasu/amanbasu/blob/master/hello_there.gif)
 
-- Software Engineer at HSBC, India 🏦.
+- Master's student at Indiana University, Bloomington. 
 - Skilled in deep learning 🤖, android, and cloud.
 - If not a programmer 💻, I would be a body builder 💪.
 - Certified AWS ML specialist, solutions architect, and developer ☁️✔️.
