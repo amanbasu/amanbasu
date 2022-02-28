@@ -11,7 +11,7 @@
 ### Connect with me
 
 <a href="http://amanagarwal.io/"><img src="https://img.shields.io/badge/Website-amanagarwal.io-blue"/></a> 
-<a href="https://twitter.com/__aa97__"><img src="https://img.shields.io/twitter/follow/TheAbecedarian_"/></a> 
+<a href="https://twitter.com/__aa97__"><img src="https://img.shields.io/twitter/follow/__aa97__"/></a> 
 <a href="https://www.linkedin.com/in/aa97aman"><img src="https://img.shields.io/badge/LinkedIn-connect-0e76a8?logo=linkedin"/></a> 
 <a href="https://stackoverflow.com/users/7546606/aman-agarwal"><img src="https://img.shields.io/badge/Stack_Overflow-follow-ef8236?logo=stack-overflow"/></a>
 
