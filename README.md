@@ -19,6 +19,6 @@
 <br/>
 
 <!-- Options: &hide=stars,commits,prs,issues,contribs -->
-![Aman's github stats](https://github-readme-stats.vercel.app/api?username=amanbasu&hide=prs,contribs)
+![Aman's github stats](https://github-readme-stats.vercel.app/api?username=amanbasu&hide=prs,contribs)<br/>
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amanbasu&show_icons=true)
 
